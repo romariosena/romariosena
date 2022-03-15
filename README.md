@@ -1,6 +1,6 @@
 <div align="center"> 
   <div style="display: inline_block">
-  <img align="center" alt="PHP" height="306" width="98" src="https://romariosena.insoluti.com.br/github/logo.png">
+  <img align="center" alt="logo" width="306" height="98" src="https://romariosena.insoluti.com.br/github/logo.png">
 </div>
 <h1> Hi! My name is Romário Sena. 👋😀</h1>
 <br>
