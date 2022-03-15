@@ -1,8 +1,9 @@
-<h1> Hi! 👋😀</h1>
-<br>
 <div align="center"> 
   <div style="display: inline_block">
   <img align="center" alt="logo" width="306" height="98" src="https://romariosena.insoluti.com.br/github/logo.png">
+</div>
+<div align="center">
+  <h1> Hi! 👋😀 I'm a self-taught passionate FrontEnd developer from Brazil.</h1>
 </div>
 <br>
 <div align="center"> 
