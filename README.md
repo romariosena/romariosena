@@ -1,6 +1,7 @@
 <h1> Hi! My name is Romário Sena. 👋</h1>
 
 <div>
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romariosena)](https://github.com/anuraghazra/github-readme-stats)
     <a href="https://github.com/romariosena">
         <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=romariosena&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
         <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romariosena&layout=compact&langs_count=7&theme=react" />
