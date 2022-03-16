@@ -34,7 +34,7 @@
 </div>
 <br>
 <div align="center"> 
-    <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=romariosena&theme=jolly&show_icons=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=romariosena&theme=jolly&show_icons=true"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romariosena&layout=compact&langs_count=7&theme=jolly" />
 </div>
 
