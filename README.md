@@ -34,8 +34,7 @@
 </div>
 <br>
 <div align="center"> 
-    <img height: 200rm align="center" src="https://github-readme-stats.vercel.app/api?username=romariosena&theme=jolly&show_icons=true"/>
-    <img height: 200rm align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romariosena&layout=compact&langs_count=7&theme=jolly" />
+    <img height: 180em align="center" src="https://github-readme-stats.vercel.app/api?username=romariosena&theme=jolly&show_icons=true"/>
+    <img height: 180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romariosena&layout=compact&langs_count=7&theme=jolly" />
 </div>
-
 ![Snake animation](https://github.com/romariosena/romariosena/blob/output/github-contribution-grid-snake.svg)
