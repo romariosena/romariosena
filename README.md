@@ -3,7 +3,7 @@
   <img align="center" alt="logo" width="306" height="98" src="https://romariosena.insoluti.com.br/github/logo.png">
 </div>
 <div align="center">
-  <p> Hi! 👋😀 I'm a self-taught passionate <strong>FrontEnd developer</strong> from Brazil.</p>
+  <p> Hi! 👋😀 I'm a self-taught passionatee <strong>FrontEnd developer</strong> from Brazil.</p>
 </div>
 <br>
 <div align="center"> 
